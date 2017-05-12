@@ -1,0 +1,13 @@
+{
+  "name": "material-colors-bot",
+  "version": "1.0.0",
+  "description": "Material Colors Everywhere! bot",
+  "main": "index.js",
+  "dependencies": {
+    "material-colors": "^1.2.5",
+    "node-telegram-bot-api": "^0.27.1",
+    "text2png": "^1.0.1"
+  },
+  "author": "Francesco Cannizzaro",
+  "license": "MIT"
+}
