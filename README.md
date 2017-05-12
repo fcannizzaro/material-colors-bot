@@ -6,7 +6,7 @@ Material Colors Everywhere!
 ## /colors
 List All Colors
 
-## color index
+## <color> <index>
 ```
 indigo 500
 pink A400
